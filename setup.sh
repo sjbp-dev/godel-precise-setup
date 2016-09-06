@@ -32,6 +32,8 @@ ln -sb godel-precise-dotfiles/.gitconfig .
 ln -sb godel-precise-dotfiles/.screenrc .
 ln -sf godel-precise-dotfiles/.emacs.d .
 
+ln -sf godel-precise-dotfiles/git-completion.bash .
+ln -sf godel-precise-dotfiles/git-prompt.sh .
 
 ##### Everything below this line needs to be reviewed #####
 
